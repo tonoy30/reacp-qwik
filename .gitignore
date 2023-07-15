@@ -23,7 +23,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Editor
+# 
 .vscode/*
 !.vscode/launch.json
 !.vscode/*.code-snippets
